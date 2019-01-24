@@ -34,7 +34,7 @@ public class MotuPatlu {
 			}
 		}
 		if(f==0) System.out.println("Motu");
-		else System.out.println("Patlu");
+		else System.out.println("Patlu")
 		
 
 	}
